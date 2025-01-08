@@ -1,11 +1,11 @@
-# alle-hacks
+# kk neger
 
-## Feel free to delete this file and replace it with your own content.
+## kk neger
 
-## Repository Initialization Notice
+## kk neger
 
-This repository was automatically initialized by the Bolt to GitHub extension.
+kk neger
 
-**Auto-Generated Repository**
-- Created to ensure a valid Git repository structure
-- Serves as an initial commit point for your project
+**kk neger**
+- kk neger
+- kk neger
